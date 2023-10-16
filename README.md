@@ -1,19 +1,21 @@
-<h1 align="center"> Little Lemon  </h1>
+# Review criteria
+ 
+When you submit your assignment, other learners in the course will review and grade your work. They will evaluate the following:
 
-<p align="center">
-The little lemon app is the capstone project for Meta's Front-End Developer Certificate on Coursera. <br/>
+Has the learner followed the design and implementation of the UX UI?
+
+Are there appropriate accessibility tags applied?
+
+Does the web app contain unit tests?
+
+Is the booking form functional and applying validation?
+
+Are the semantics and responsiveness of the web app correct?
+
+Has the learner committed the project to a Git repository?
+
+<h1> Little Lemon  </h1>
+
+<p>
+Little lemon Webapp for the restaurant for Coursera Meta Front End Developer Specialization. <br/>
 </p>
-
-<h2 id="technologies">🚀 Technologies Used</h2>
-
-This project was developed with the following technologies:
-
-- React JS
-- Typescript
-- Styled Components
-- Yup
-- Formik
-- Jest
-- React Testing Library
-- Git and Github
-- Figma
